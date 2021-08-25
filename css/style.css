@@ -3,10 +3,18 @@
 }
 
 #img-style {
-    width: 200px;
+    width: 220px;
 }
 
+#topic-img {
+    height: 140px;
+    width: 153px;
+}
 #header-para {
     font-family: 'Roboto Condensed',
-        sans-serif;
+    sans-serif;
+}
+.card:hover {
+    box-shadow: 5px 10px white;
+    background: red;
 }
