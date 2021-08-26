@@ -1,3 +1,8 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 .header-bg {
     background: #F0FFF0;
 }
@@ -36,4 +41,19 @@ hr {
     border-radius: 50%;
     margin-left: 50px;
 
+}
+.list-style ul {
+    list-style-type: none;
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-style: italic;
+}
+
+#footer-id {
+    width: 100%;
+    background-color: #282531;
 }
