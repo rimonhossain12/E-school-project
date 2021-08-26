@@ -10,11 +10,21 @@
     height: 140px;
     width: 153px;
 }
+#first-img {
+    height: 165px;
+}
 #header-para {
     font-family: 'Roboto Condensed',
     sans-serif;
 }
 .card:hover {
-    box-shadow: 5px 10px white;
-    background: red;
+    background: #F0FFF0;
+    box-shadow: 5px 12px gray;
+    }
+
+    #hr-style {
+        border: 1px solid gray;
+        width: 20%;
+        margin: 0 auto;
+        margin-bottom: 5px;
 }
